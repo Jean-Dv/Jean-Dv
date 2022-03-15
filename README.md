@@ -42,15 +42,15 @@
 ### 👉 Backend Development
 <p align="center">
   &emsp;
-  <a href="https://www.w3.org/html/" target="_blank">
+  <a href="https://nodejs.org/es/" target="_blank">
    <img alt="HTML" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://expressjs.com/es/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   </a>
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="https://www.django-rest-framework.org/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
   </a>
   
