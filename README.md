@@ -37,6 +37,9 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   </a>
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  </a>
 </p>
 
 ### 👉 Backend Development
