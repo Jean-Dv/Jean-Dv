@@ -80,15 +80,6 @@
 
 <br/>
 
----
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Jean-Dv"><img alt="Jean-Dv Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jean-Dv&custom_title=JeanDev's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
-
 -----
 Credits: [7oSkaaa](https://github.com/7oSkaaa)
 
